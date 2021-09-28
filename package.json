@@ -1,0 +1,22 @@
+{
+  "name": "profesional_de_js",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Pro de js - Escuela de Js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmrg-link/curso_profesional_javascript.git"
+  },
+  "keywords": [],
+  "author": "jrico-student",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmrg-link/curso_profesional_javascript/issues"
+  },
+  "homepage": "https://github.com/jmrg-link/curso_profesional_javascript#readme"
+}
